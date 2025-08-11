@@ -1,4 +1,4 @@
-# ds_<your_name>
+# ds_simranjeet_kaur
 
 ## Project
 Explore relationship between market sentiment (Fear/Greed) and trader performance.
